@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashScreen", "SplashScreen\SplashScreen.csproj", "{96995DB6-1609-4B63-A559-8AB06447FB0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{EAC8F2D2-D045-4C0D-B0E6-F3A70E6FAECF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src(Login)", "src(Login)", "{ECA4CFCC-BBE8-4671-AF37-0375EE389762}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\IMG-MedicApp\Close.png = ..\..\..\Downloads\IMG-MedicApp\Close.png
+		..\..\..\Downloads\LoginIc.ico = ..\..\..\Downloads\LoginIc.ico
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src(MedicApp)", "src(MedicApp)", "{6100D86E-B476-48AB-80B5-EFFF3D3C0610}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Acerca De.ico = ..\..\..\Downloads\Acerca De.ico
+		..\..\..\Downloads\IMG-MedicApp\Cerrar.png = ..\..\..\Downloads\IMG-MedicApp\Cerrar.png
+		..\..\..\Downloads\IMG-MedicApp\DiseñoSplashS.psd = ..\..\..\Downloads\IMG-MedicApp\DiseñoSplashS.psd
+		..\..\..\Downloads\IMG-MedicApp\Enviar2.png = ..\..\..\Downloads\IMG-MedicApp\Enviar2.png
+		..\..\..\Downloads\IMG-MedicApp\Facturar2.png = ..\..\..\Downloads\IMG-MedicApp\Facturar2.png
+		..\..\..\Downloads\FondoAzul.jpg = ..\..\..\Downloads\FondoAzul.jpg
+		..\..\..\Downloads\IMG-MedicApp\IcoCentralApp.ico = ..\..\..\Downloads\IMG-MedicApp\IcoCentralApp.ico
+		..\..\..\Downloads\IMG-MedicApp\Icon.png = ..\..\..\Downloads\IMG-MedicApp\Icon.png
+		..\..\..\Downloads\Medicamentos.ico = ..\..\..\Downloads\Medicamentos.ico
+		..\..\..\Downloads\IMG-MedicApp\Medicamentos.png = ..\..\..\Downloads\IMG-MedicApp\Medicamentos.png
+		..\..\..\Downloads\New.ico = ..\..\..\Downloads\New.ico
+		..\..\..\Downloads\IMG-MedicApp\New.png = ..\..\..\Downloads\IMG-MedicApp\New.png
+		..\..\..\Downloads\PacienteConsulta.ico = ..\..\..\Downloads\PacienteConsulta.ico
+		..\..\..\Downloads\IMG-MedicApp\PacienteConsulta.jpg = ..\..\..\Downloads\IMG-MedicApp\PacienteConsulta.jpg
+		..\..\..\Downloads\Soporte2.ico = ..\..\..\Downloads\Soporte2.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96995DB6-1609-4B63-A559-8AB06447FB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96995DB6-1609-4B63-A559-8AB06447FB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96995DB6-1609-4B63-A559-8AB06447FB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96995DB6-1609-4B63-A559-8AB06447FB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{96995DB6-1609-4B63-A559-8AB06447FB0D} = {EAC8F2D2-D045-4C0D-B0E6-F3A70E6FAECF}
+		{ECA4CFCC-BBE8-4671-AF37-0375EE389762} = {EAC8F2D2-D045-4C0D-B0E6-F3A70E6FAECF}
+		{6100D86E-B476-48AB-80B5-EFFF3D3C0610} = {EAC8F2D2-D045-4C0D-B0E6-F3A70E6FAECF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D57169A-7727-474C-BBE4-A7EFFB9CA2A5}
+	EndGlobalSection
+EndGlobal
